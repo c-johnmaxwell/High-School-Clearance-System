@@ -1,0 +1,377 @@
+{
+  "students": {
+    "14555": {
+      "admission_no": "14555",
+      "name": "Amara Odhiambo",
+      "form": "2",
+      "stream": "A",
+      "year": "2025",
+      "clearance_stack": [],
+      "audit_log": [
+        {
+          "timestamp": "2026-05-14 08:53:15",
+          "department": "System",
+          "action": "CLEARANCE INITIATED",
+          "reason": ""
+        }
+      ],
+      "is_fully_cleared": false,
+      "documents_issued": [],
+      "created_at": "2025-01-10 08:00:00"
+    },
+    "13827": {
+      "admission_no": "13827",
+      "name": "Brian Kipchoge",
+      "form": "4",
+      "stream": "B",
+      "year": "2025",
+      "clearance_stack": [],
+      "audit_log": [],
+      "is_fully_cleared": false,
+      "documents_issued": [],
+      "created_at": "2025-01-10 08:05:00"
+    },
+    "13828": {
+      "admission_no": "13828",
+      "name": "Cynthia Wairimu",
+      "form": "4",
+      "stream": "A",
+      "year": "2025",
+      "clearance_stack": [
+        "Boarding",
+        "Laboratory",
+        "Sports",
+        "Library",
+        "Book Store",
+        "Finance",
+        "Academics"
+      ],
+      "audit_log": [
+        {
+          "timestamp": "2026-05-14 08:07:09",
+          "department": "System",
+          "action": "CLEARANCE INITIATED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:10:40",
+          "department": "Boarding",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:13:26",
+          "department": "Laboratory",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:14:11",
+          "department": "Sports",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:14:34",
+          "department": "Library",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:16:46",
+          "department": "Book Store",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:17:57",
+          "department": "Finance",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:18:46",
+          "department": "Academics",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:18:46",
+          "department": "System",
+          "action": "FULLY CLEARED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:21:07",
+          "department": "Academics",
+          "action": "DOCUMENT ISSUED: Leaving Certificate",
+          "reason": ""
+        }
+      ],
+      "is_fully_cleared": true,
+      "documents_issued": [
+        "Leaving Certificate"
+      ],
+      "created_at": "2025-01-10 08:10:00"
+    },
+    "13829": {
+      "admission_no": "13829",
+      "name": "Dennis Mutinda",
+      "form": "4",
+      "stream": "C",
+      "year": "2025",
+      "clearance_stack": [
+        "Sports",
+        "Boarding"
+      ],
+      "audit_log": [],
+      "is_fully_cleared": false,
+      "documents_issued": [],
+      "created_at": "2025-01-10 08:15:00"
+    },
+    "14222": {
+      "admission_no": "14222",
+      "name": "Esther Nekesa",
+      "form": "3",
+      "stream": "B",
+      "year": "2025",
+      "clearance_stack": [],
+      "audit_log": [
+        {
+          "timestamp": "2026-05-14 00:13:27",
+          "department": "System",
+          "action": "CLEARANCE INITIATED",
+          "reason": ""
+        }
+      ],
+      "is_fully_cleared": false,
+      "documents_issued": [],
+      "created_at": "2025-01-10 08:20:00"
+    },
+    "13831": {
+      "admission_no": "13831",
+      "name": "Francis Karanja",
+      "form": "4",
+      "stream": "A",
+      "year": "2025",
+      "clearance_stack": [],
+      "audit_log": [],
+      "is_fully_cleared": false,
+      "documents_issued": [],
+      "created_at": "2025-01-10 08:25:00"
+    },
+    "13832": {
+      "admission_no": "13832",
+      "name": "Gloria Achieng",
+      "form": "4",
+      "stream": "B",
+      "year": "2025",
+      "clearance_stack": [
+        "Library",
+        "Sports",
+        "Boarding"
+      ],
+      "audit_log": [
+        {
+          "timestamp": "2026-05-14 08:36:42",
+          "department": "System",
+          "action": "CLEARANCE INITIATED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:37:50",
+          "department": "Library",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:39:01",
+          "department": "Sports",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:41:22",
+          "department": "Boarding",
+          "action": "APPROVED",
+          "reason": ""
+        }
+      ],
+      "is_fully_cleared": false,
+      "documents_issued": [],
+      "created_at": "2025-01-10 08:30:00"
+    },
+    "13833": {
+      "admission_no": "13833",
+      "name": "Hassan Abdi",
+      "form": "4",
+      "stream": "A",
+      "year": "2025",
+      "clearance_stack": [
+        "Boarding",
+        "Library"
+      ],
+      "audit_log": [
+        {
+          "timestamp": "2026-05-14 08:08:49",
+          "department": "System",
+          "action": "CLEARANCE INITIATED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:12:21",
+          "department": "Boarding",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:14:39",
+          "department": "Library",
+          "action": "APPROVED",
+          "reason": ""
+        }
+      ],
+      "is_fully_cleared": false,
+      "documents_issued": [],
+      "created_at": "2025-01-10 08:35:00"
+    },
+    "14444": {
+      "admission_no": "14444",
+      "name": "Irene Muthoni",
+      "form": "2",
+      "stream": "C",
+      "year": "2025",
+      "clearance_stack": [
+        "Boarding",
+        "Book Store",
+        "Sports"
+      ],
+      "audit_log": [
+        {
+          "timestamp": "2026-05-14 08:26:39",
+          "department": "System",
+          "action": "CLEARANCE INITIATED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:28:08",
+          "department": "Boarding",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:30:51",
+          "department": "Book Store",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:31:59",
+          "department": "Sports",
+          "action": "APPROVED",
+          "reason": ""
+        }
+      ],
+      "is_fully_cleared": false,
+      "documents_issued": [],
+      "created_at": "2025-01-10 08:40:00"
+    },
+    "138222": {
+      "admission_no": "138222",
+      "name": "James Otieno",
+      "form": "4",
+      "stream": "B",
+      "year": "2024",
+      "clearance_stack": [
+        "Book Store",
+        "Library",
+        "Sports",
+        "Laboratory",
+        "Boarding",
+        "Finance",
+        "Academics"
+      ],
+      "audit_log": [
+        {
+          "timestamp": "2026-05-14 08:35:26",
+          "department": "System",
+          "action": "CLEARANCE INITIATED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:35:43",
+          "department": "Book Store",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:37:26",
+          "department": "Library",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:38:57",
+          "department": "Sports",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:39:54",
+          "department": "Laboratory",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:41:17",
+          "department": "Boarding",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:44:21",
+          "department": "Finance",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:44:41",
+          "department": "Academics",
+          "action": "APPROVED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:44:41",
+          "department": "System",
+          "action": "FULLY CLEARED",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:45:19",
+          "department": "Academics",
+          "action": "DOCUMENT ISSUED: Leaving Certificate",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:45:31",
+          "department": "Academics",
+          "action": "DOCUMENT ISSUED: KCSE Result Slip",
+          "reason": ""
+        },
+        {
+          "timestamp": "2026-05-14 08:45:44",
+          "department": "Academics",
+          "action": "DOCUMENT ISSUED: KCSE Certificate",
+          "reason": ""
+        }
+      ],
+      "is_fully_cleared": true,
+      "documents_issued": [
+        "Leaving Certificate",
+        "KCSE Result Slip",
+        "KCSE Certificate"
+      ],
+      "created_at": "2025-01-10 08:45:00"
+    }
+  }
+}

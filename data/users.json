@@ -1,0 +1,59 @@
+{
+  "users": {
+    "bartholomew": {
+      "password": "8989",
+      "role": "admin",
+      "full_name": "Bartholomew Mwangi"
+    },
+    "pettyshain": {
+      "password": "8989",
+      "role": "admin",
+      "full_name": "Pettyshain Kariuki"
+    },
+    "dorcas": {
+      "password": "8989",
+      "role": "admin",
+      "full_name": "Dorcas Wangari"
+    },
+    "john": {
+      "password": "8989",
+      "role": "admin",
+      "full_name": "John Maxwell"
+    },
+    "boarding_staff": {
+      "password": "8989",
+      "role": "staff",
+      "full_name": "Mr. Kamau Peter"
+    },
+    "sports_staff": {
+      "password": "8989",
+      "role": "staff",
+      "full_name": "Mr. Otieno Felix"
+    },
+    "bookstore_staff": {
+      "password": "8989",
+      "role": "staff",
+      "full_name": "Ms. Akinyi Grace"
+    },
+    "library_staff": {
+      "password": "8989",
+      "role": "staff",
+      "full_name": "Ms. Mutua Sharon"
+    },
+    "lab_staff": {
+      "password": "8989",
+      "role": "staff",
+      "full_name": "Mr. Njoroge Samuel"
+    },
+    "finance_staff": {
+      "password": "8989",
+      "role": "staff",
+      "full_name": "Ms. Chebet Lilian"
+    },
+    "academics_staff": {
+      "password": "8989",
+      "role": "staff",
+      "full_name": "Mr. Omondi David"
+    }
+  }
+}

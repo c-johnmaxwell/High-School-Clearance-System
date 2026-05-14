@@ -1,0 +1,60 @@
+{
+  "departments": {
+    "Boarding": {
+      "staff_username": "boarding_staff",
+      "checks": [
+        "Dormitory cube cleared and handed back",
+        "No broken or damaged property",
+        "Mattress and pillow in acceptable condition"
+      ]
+    },
+    "Sports": {
+      "staff_username": "sports_staff",
+      "checks": [
+        "All sports equipment returned",
+        "No damaged equipment outstanding",
+        "Sports uniform returned if school-issued"
+      ]
+    },
+    "Book Store": {
+      "staff_username": "bookstore_staff",
+      "checks": [
+        "All curriculum textbooks returned or paid for if lost",
+        "No outstanding textbook balance"
+      ]
+    },
+    "Library": {
+      "staff_username": "library_staff",
+      "checks": [
+        "All borrowed library books returned",
+        "No outstanding library fines"
+      ]
+    },
+    "Laboratory": {
+      "staff_username": "lab_staff",
+      "checks": [
+        "No broken or missing lab equipment",
+        "Lab coat returned if school-issued",
+        "No outstanding breakage fees"
+      ]
+    },
+    "Finance": {
+      "staff_username": "finance_staff",
+      "checks": [
+        "All school fees fully paid",
+        "No outstanding balances from any department",
+        "Caution money processed"
+      ]
+    },
+    "Academics": {
+      "staff_username": "academics_staff",
+      "checks": [
+        "All academic records in order",
+        "No missing examination results",
+        "Leaving certificate prepared",
+        "KCSE result slip available if applicable",
+        "KCSE certificate available if received from KNEC"
+      ]
+    }
+  }
+}
